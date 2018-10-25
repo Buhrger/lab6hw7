@@ -6,6 +6,7 @@ import java.io.*;
 import java.util.*;
 import javax.swing.text.*;
 //Dustin, Omar, Burger, Will
+//testing
 public class RemoteFileServer extends JFrame implements ActionListener {
    // GUI Components
    public JLabel jlLog = new JLabel("Log:");
