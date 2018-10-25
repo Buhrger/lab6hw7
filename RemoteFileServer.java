@@ -5,8 +5,8 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 import javax.swing.text.*;
-//Dustin, Omar, Burger, Will
-//testing
+
+
 public class RemoteFileServer extends JFrame implements ActionListener {
    // GUI Components
    public JLabel jlLog = new JLabel("Log:");
@@ -33,7 +33,7 @@ public class RemoteFileServer extends JFrame implements ActionListener {
     */
    public RemoteFileServer() {
       // Window setup
-      this.setTitle("Remote File Server (J. Burger, C. McManus)");
+      this.setTitle("Remote File Server (J. Burger)");
       this.setSize(600, 300);
       this.setLocation(800, 100);
       this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
