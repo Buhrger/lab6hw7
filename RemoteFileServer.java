@@ -12,7 +12,7 @@ import javafx.geometry.*;
 
 /*
 *
-*@author: Omar Abdullahi , Will, Burger, Dustin
+*@author: Omar Abdullahi , Will, Burger, Dustin Rochette
 *@Version: 10/25/2018
 *@Course: ISTE-121
 *@Description: RemoteFileServer
